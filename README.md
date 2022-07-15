@@ -1,3 +1,4 @@
+[停贷告知书.pdf](https://github.com/WeNeedHome/SummaryOfLoanSuspension/files/9117147/default.pdf)
 # 全国各省市烂尾楼停贷通知汇总
 
 ### 数据来源统计以及发起人： 已被封禁
